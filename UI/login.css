@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    justify-content: center;
+    padding: 20%;
+}
+
+.col {
+    align-content: center;
+    text-align: center;
+}
